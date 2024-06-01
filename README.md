@@ -9,6 +9,6 @@
 <p align="left">
 </p>
 
-## Skills
+## Languages
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,mysql,html,css,git,github,ps,ae,ai&perline=10)](https://skillicons.dev)
 
