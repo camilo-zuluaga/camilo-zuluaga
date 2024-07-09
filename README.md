@@ -1,14 +1,16 @@
-<h1 align="center">Hey 👋, I'm Camilo Zuluaga</h1>
-<h3 align="center">Software engineering student and designer!</h3>  
+### 👋 Hi, I'm Camilo!
+Welcome to my GitHub profile! I'm a passionate 19-year-old coder that is currently studying software engineering and love to see what technology can do to change our world.
 
+**Interests:** Open-source software · Maths · DevOps · BackEnd · Low Level Stuff
 
-- 🔭 I’m currently working on **a Personal Project**
+**Projects:** 🔭 I’m currently working on **a Personal Project**.
 
-- 🌱 I’m currently learning **Backend and DevOps**
+**Learning:** 🌱 I’m currently learning **Backend and DevOps**.
 
-<p align="left">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,mysql,html,css,js,git,github,ps,ae,ai,figma"/>
+  </a>
 </p>
 
-## Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,mysql,html,css,git,github,ps,ae,ai&perline=10)](https://skillicons.dev)
 
