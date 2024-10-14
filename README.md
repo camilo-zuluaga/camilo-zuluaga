@@ -1,8 +1,7 @@
 ### 👋 Hi, I'm Camilo!
 Welcome to my GitHub profile! I'm a passionate 19-year-old coder that is currently studying software engineering and love to see what technology can do to change our world.
 
-**Interests:** Open-source software · Maths · DevOps · BackEnd · Low Level Stuff
-
+**Interests:** Open-source software · Maths · DevOps · BackEnd
 **Projects:** 🔭 I’m currently working on **a Personal Project**.
 
 **Learning:** 🌱 I’m currently learning **Backend and DevOps**.
