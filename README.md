@@ -4,6 +4,6 @@
 I write code and hope for the best.
 
 ## Interests
-- Backend development
+- Backend engineering
+- Databases
 - Cryptography
-- Deep learning
